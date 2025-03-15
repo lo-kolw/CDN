@@ -8,7 +8,8 @@ font-family: sans,sans-serif,arial;
 #login {
   margin-left: 500px;
 }
-#bodydiv {
-  
+#divbody {
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 #sing-up {}
